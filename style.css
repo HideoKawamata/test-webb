@@ -1,0 +1,9 @@
+body {
+    color: #333333;
+    background-color: #e6e6fa; /* 薄い青色の背景を追加 */
+    text-align: center;        /* 文字を中央揃えに */
+}
+
+h1 {
+    color: #ff69b4;            /* 見出しをピンク色に */
+}
